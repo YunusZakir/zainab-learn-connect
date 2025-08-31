@@ -8,8 +8,8 @@ const Footer = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'hello@zainabsaifee.com',
-      href: 'mailto:hello@zainabsaifee.com'
+      value: 'zainy_rajodwala03@yahoo.com',
+      href: 'mailto:zainy_rajodwala03@yahoo.com'
     },
     {
       icon: Phone,
