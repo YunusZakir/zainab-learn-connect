@@ -20,7 +20,7 @@ const Footer = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Online & In-Person (UK)',
+      value: '52 Collingwood Gardens Broughton, MK10 7FP United Kingdom',
       href: null
     },
     {
